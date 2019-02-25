@@ -1,3 +1,5 @@
+### 2019-02-25： The application server is out of order and is under repair. Sorry!
+
 ### XiaoHaVPN Free, simple, one - click connection, free access to the Internet.
 
 ##### XiaoHaVPN Completely free, with minimal advertising to maintain server overhead.The maintenance is not easy. Please forgive me if I can't satisfy you. Ha has done his best.
