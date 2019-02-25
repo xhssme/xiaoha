@@ -1,4 +1,4 @@
-### 2019-02-25 小哈应用服务器出现故障，现在正在修复中，抱歉！
+### 2019-02-25 小哈应用服务器出现故障，现已更换服务器，请下载最新版本 [xiaoha_1.1.apk](https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk "下载地址")
 
 ### 小哈 免费、简单、一键连接、自由地访问互联网。
 
@@ -43,7 +43,7 @@ Googole Play下载(推荐)
 
 如果您没有Google Play，可以在此下载最新APK：
 
-[https://github.com/xhssme/xiaoha/releases](https://github.com/xhssme/xiaoha/releases "下载地址")
+[https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk](https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk "下载地址")
 
   
 
