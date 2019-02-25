@@ -1,5 +1,3 @@
-### 2019-02-25： The application server is out of order and is under repair. Sorry!
-
 ### XiaoHaVPN Free, simple, one - click connection, free access to the Internet.
 
 ##### XiaoHaVPN Completely free, with minimal advertising to maintain server overhead.The maintenance is not easy. Please forgive me if I can't satisfy you. Ha has done his best.
@@ -43,7 +41,7 @@ Googole Play download (recommended)
 
 If you don't have Google Play, you can download the latest APK here:
 
-[https://github.com/xhssme/xiaoha/releases](https://github.com/xhssme/xiaoha/releases "download")
+[[https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk](https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk "下载地址")]
 
   
 
