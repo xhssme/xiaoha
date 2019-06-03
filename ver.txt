@@ -1,1 +1,1 @@
-{"code":1,"message":"","data":{"url":"https://github.com","update_message":"版本","ver_code":1}}
+{"code":1,"message":"","data":{"url":"https://github.com","update_message":"版本","ver_code":3}}
