@@ -41,7 +41,7 @@ Googole Play下载(推荐)
 
 如果您没有Google Play，可以在此下载最新APK：
 
-[https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk](https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk "下载地址")
+[https://github.com/xhssme/xiaoha/releases/download/v12/xiaoha1.2.apk](https://github.com/xhssme/xiaoha/releases/download/v12/xiaoha1.2.apk "下载地址")
 
   
 
