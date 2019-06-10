@@ -1,5 +1,3 @@
-(https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk "下载地址")
-
 ### 小哈 免费、简单、一键连接、自由地访问互联网。
 
 ##### 小哈完全免费，仅靠微薄的广告维持服务器开销。维护不易，若不能让您满意，请见谅，小哈已经尽力了。
