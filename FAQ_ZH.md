@@ -1,5 +1,3 @@
-### 2019-05-31 节点出现故障(被和谐)，正在修复中...
-
 (https://github.com/xhssme/xiaoha/releases/download/xiaohav1.1/xiaoha_1.1.apk "下载地址")
 
 ### 小哈 免费、简单、一键连接、自由地访问互联网。
