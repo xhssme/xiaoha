@@ -1,1 +1,1 @@
-{"code":0,"message":"","data":{"url":"https://github.com/xhssme/xiaoha/releases/download/v12/xiaoha1.2.apk","update_message":"有新版本可下载","ver_code":3}}
+{"code":0,"message":"","data":{"url":"https://github.com/xhssme/xiaoha/releases/download/v1.3/xiaoha1.3.apk","update_message":"有新版本可下载","ver_code":4}}
