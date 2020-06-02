@@ -32,7 +32,9 @@ Googole Play下载(推荐)
 
 如果您没有Google Play，可以在此下载最新APK：
 
-[最新版v1.4 下载](https://github.com/xhssme/xiaoha/releases/download/v1.4/xiaoha1.4.apk "下载地址")
+[最新版v2.0 下载](https://github.com/xhssme/xiaoha/releases/download/xiaoha2.0/xiaoha2.0.apk "下载地址")
+
+[备用下载](https://download.apkfiles.com/download/601239/xiaoha-vpn.apk?853792 "下载地址")
 
   
 
