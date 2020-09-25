@@ -21,7 +21,7 @@ Googole Play下载(推荐)
 
 [最新版v2.1 下载](https://github.com/xhssme/xiaoha/releases/download/v21/xiaoha-v21.apk "下载地址")
 
-[备用下载](https://download.apkfiles.com/download/601239/xiaoha-vpn.apk?853792 "下载地址")
+[备用下载](https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v21.apk "下载地址")
 
   
 
