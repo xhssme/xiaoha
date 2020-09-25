@@ -1,1 +1,1 @@
-{"code":0,"message":"","data":{"url":"https://download.apkfiles.com/download/601239/xiaoha-vpn.apk?853792","update_message":"小哈全新2.1版本可下载，适配安卓11请尽快更新至最新版本，旧版本将不再维护","ver_code":7}}
+{"code":0,"message":"","data":{"url":"https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v21.apk","update_message":"小哈全新2.1版本可下载，适配安卓11请尽快更新至最新版本，旧版本将不再维护","ver_code":7}}
