@@ -1,1 +1,1 @@
-{"code":0,"message":"","data":{"url":"https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v2.3.apk","update_message":"小哈全新2.3版本可下载，请尽快更新至最新版本，旧版本将不再维护","ver_code":10}}
+{"code":0,"message":"","data":{"url":"http://xh.github.allfreepn.com","update_message":"小哈全新2.3版本可下载，请尽快更新至最新版本，旧版本将不再维护","ver_code":10}}
