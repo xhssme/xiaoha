@@ -41,7 +41,7 @@ Googole Play download (recommended)
 
 If you don't have Google Play, you can download the latest APK here: -->
 
-[[xiaoha2.3](https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v2.4.1.apk "下载地址")]
+[[xiaoha2.4.1](https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v2.4.1.apk "下载地址")]
 
 
 
