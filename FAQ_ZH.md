@@ -1,4 +1,4 @@
-### 小哈 免费、简单、一键连接
+### 小哈V2.4.4 免费、简单、一键连接
 
 ##### 小哈完全免费，仅靠微薄的广告维持服务器开销。维护不易，若不能让您满意，请见谅，小哈已经尽力了。
 
@@ -18,9 +18,9 @@ Googole Play下载(推荐)
 
 如果您没有Google Play，可以在此下载最新APK：
 
-[最新版v2.4.3 下载](https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v2.4.3.apk "下载地址")
+[最新版v2.4.4 下载](https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-v2.4.4.apk "下载地址")
 
-[备用下载](https://github.com/xhssme/xiaoha/releases/download/v2.4.3/xiaoha-v2.4.3.apk "下载地址")
+[备用下载](https://github.com/xhssme/xiaoha/releases/download/v2.4.4/xiaoha-v2.4.4.apk "下载地址")
 
   
 
