@@ -40,7 +40,7 @@ Googole Play download (recommended)
 
 If you don't have Google Play, you can download the latest APK here:
 
-[[xiaoha2.5.0](https://gitlab.com/tomxiaoha/xiaoha/-/raw/master/xiaoha-2.5.0.apk "下载地址")]
+[[xiaoha2.5.4](https://xhabout.pages.dev/index_en "下载地址")]
 
 
 
