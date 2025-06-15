@@ -1,1 +1,1 @@
-{"code":0,"message":"","data":{"url":"https://xhabout.pages.dev","update_message":"*发现v2.6.0版本，修复线路失效的问题，请尽快更新<hh>*v2.6.0 version can be downloaded","ver_code":27}}
+{"code":0,"message":"","data":{"url":"https://xhabout.pages.dev","update_message":"*发现v2.6.1版本，修复线路失效的问题，请尽快更新<hh>*v2.6.1 version can be downloaded","ver_code":28}}
